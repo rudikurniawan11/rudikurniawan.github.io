@@ -4,16 +4,21 @@ You can use the [editor on GitHub](https://github.com/rudikurniawan11/rudikurnia
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### LINK
+[SIF UIN SUSKA] http://sif.uin-suska.ac.id/
+[UIN SUSKA] http://uin-suska.ac.id/
+
+### MATKUL
+  GIS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# NAMA : RUDY KURNIAWAN 
+## NIM : 11653103863
+### SAYA MASUK UIN SUSKA PADA TAHUN 2016 TERLAHIR NORMAL,SUKA WANITA SEXY ,SAYANGNYA LOKAL NSAYA TIDAK SESUAI HARAPN
 
 - Bulleted
 - List
